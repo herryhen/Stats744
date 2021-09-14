@@ -1,2 +1,8 @@
 # Stats744![countries-by-share-of-earths-surface-3](https://user-images.githubusercontent.com/57007288/133129632-b4665871-f77e-417e-be82-4ba3217e4dd4.png)
 This may be one of the times when pie charts are the best option as it resembles earth's (somewhat) spherical shape to present surface land cover. We hear about how earth's surface is 70% water and how humans are densely located in a very very small percentage of land, which is why we were told not to worry when China's rocket went haywire and was hurling towards earth. This shows the grandness of water cover on earth but it would be better if it also included the percentage of land used up by people by country. Another problem I have is determining whether the percentage land cover by country is of the 30% land cover or if it is of the entire world.
+
+**BB**: I agree that the physical/conceptual match (area and ring) is nice here (although the geometry doesn't exactly work as we are mapping areas on the surface of a sphere to arc lengths on the perimeter of a circle ...). It will be harder to draw precise *quantitative* conclusions from the graph (we'll get to the *Cleveland hierarchy* here) but that's arguably not the main point of the graph. I like the representation of the land by the 'typical' satellite imagery (wonder how this was done?)  The direct labeling aspect is nice too.
+
+How would you include the percentage of land used by people in the graph? This might be hard to define: what counts as "occupied"? What spatial scale are we considering? An overall population density would be much easier to define.
+
+mark: 2.25 (good)
