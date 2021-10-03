@@ -1,3 +1,10 @@
+
+JD: Changed the name of this file to be less similar to next one, and to eliminate spaces. Nicely done and explained; F1 is creative as well. You should not even be annoyed that you had to reorder things; thoughtfully choosing an order can just become a routine when you are plotting.
+
+Code is not reproducible by us. You should work to provide data and the code that can read the data. We have no clue where you got DataPlot1Plot2, nor what is in it.
+
+Grade 2.3/3
+
 The graphic by Jia You is showing the decrease in people affected by various diseases when a vaccine was introduced (orange circle). It uses the size of circles to represent the mean annual cases reported, while using a transparency to emphasize the time when there were many cases during consecutive years. The graphic is extremely informative, but if the main point is to show the difference made by the use of vaccines, it can be simplified.
 
 
